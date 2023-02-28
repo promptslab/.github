@@ -12,9 +12,9 @@
   <p> Working on Generative Models | Prompt-Engineering | LLMs</p>
 </h2>
 <div align="center">
-  <p>Although large language models (LLMs) possess impressive capabilities, effectively applying them to healthcare and business applications and constructing pipelines for such applications remains a challenging and resource-intensive process.
-Relying solely on LLMs is often insufficient to build applications & tools. To unlock their full potential, it is necessary to integrate LLMs with additional sources of information, such as structured data or domain-specific knowledge.
-PromptLabs is dedicated to developing open-source tools and libraries that support developers in creating robust pipelines for using LLMs APIs in production. Our tools solve NLP tasks, including NER, classification, question answering, summarization, and text-to-graph conversion, and provide powerful agents for building chat agents for different tasks.
+  <p>Although large language models (LLMs) possess impressive capabilities, effectively applying them to healthcare and business applications and constructing pipelines for such applications remains a challenging and resource-intensive process. <br>
+Relying solely on LLMs is often insufficient to build applications & tools. To unlock their full potential, it is necessary to integrate LLMs with additional sources of information, such as structured data or domain-specific knowledge.<br>
+PromptLabs is dedicated to developing open-source tools and libraries that support developers in creating robust pipelines for using LLMs APIs in production. Our tools solve NLP tasks, including NER, classification, question answering, summarization, and text-to-graph conversion, and provide powerful agents for building chat agents for different tasks.<br>
 With these tools, developers can focus on building the logic of their NLP application, while the library handles the complexities of integrating LLMs into their pipeline. Join us and discover the true potential of LLMs in healthcare and business applications!</p>
 </div>
 
