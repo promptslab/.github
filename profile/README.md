@@ -12,7 +12,7 @@
   <p> Working on Generative Models | Prompt-Engineering | LLMs</p>
 </h2>
 <div align="center">
-PromptLabs is dedicated to developing open-source tools and libraries that support developers in creating robust pipelines for using LLMs APIs in production. <br> With these tools, developers can focus on building the logic of their NLP application, while the library handles the complexities of integrating LLMs into their pipeline. Join us and discover the true potential of LLMs in healthcare and business applications!
+PromptLabs is dedicated to developing open-source tools and libraries that support developers in creating robust pipelines for using LLMs APIs in production. With these tools, developers can focus on building the logic of their NLP application, while the library handles the complexities of integrating LLMs into their pipeline. Join us and discover the true potential of LLMs in healthcare and business applications!
 </div>
 
 <h3 align="center">
