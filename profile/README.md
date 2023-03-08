@@ -28,6 +28,7 @@ designed to make it easy to work with Large Language Models(LLMs). Check out our
   LLM & Prompt-Engineering components for NLP tasks in Javascript
 - [`PromptGraph`](https://github.com/promptslab/PromptGraph) - Library
   that Solve Geometric & Graph Problems with Large Language Models
+- [`PromptChat`](https://github.com/promptslab/PromptChat) - Experience uninterrupted access to ChatGPT without any server downtime or request limitations
 - [`openai-detector`](https://github.com/promptslab/openai-detector) - AI classifier for indicating AI-written text in python (Openai Detector in Python)
 - [`Awesome Prompt Engineering`](https://github.com/promptslab/Awesome-Prompt-Engineering) - This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc
 - [`LLM Prompt Vulnerabilities`](https://github.com/promptslab/LLM-Prompt-Vulnerabilities) - Prompts Methods to find the vulnerabilities in Generative Models
